@@ -2,8 +2,8 @@
 
 Autora: Javiera Tapia Bobadilla
 
-## Características
-Lenguaje: Assembler
+## Características
+Lenguaje: Assembly
 
 ## Instrucciones
 
